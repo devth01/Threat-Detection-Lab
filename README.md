@@ -26,5 +26,9 @@ This project simulates a monitored network with:
 - Sysmon logs forwarded to Splunk successfully
 - Wireshark confirmed network traffic during attacks
 
+## 🗺️ Network Diagram
+
+![Network Diagram](network-diagram.png)
+
 
 
