@@ -9,7 +9,7 @@ This project simulates a monitored network with:
 
 ## 🧰 Tools Used
 - pfSense + Suricata IDS
-- Splunk Enterprise (Universal Forwarder configuredon on Windows VM)
+- Splunk Enterprise (Universal Forwarder configured on Windows VM)
 - Sysmon on Windows VM
 - Wireshark packet captures
 - Kali Linux for attack simulation
